@@ -136,7 +136,7 @@
     <value>Adicionar domínios de espionagem no arquivo hosts e bloquear no Firewall do Windows</value>
   </data>
   <data name="checkBoxCreateSystemRestorePoint" xml:space="preserve">
-    <value>Criar ponto de restauracão</value>
+    <value>Criar ponto de restauração</value>
   </data>
   <data name="checkBoxDeleteWindows10Apps" xml:space="preserve">
     <value>Eliminar Apps Metro do Windows 10</value>
@@ -180,7 +180,7 @@ Reiniciar agora?</value>
     <value>Error</value>
   </data>
   <data name="ErrorMSG" xml:space="preserve">
-    <value>Finalizado. Errores - {0}
+    <value>Finalizado. Erros - {0}
 Uma reinicialização é necessária para desativar todos os spywares.
 Reiniciar agora?</value>
   </data>
@@ -219,7 +219,7 @@ Reiniciar agora?</value>
     <value>Leia-me</value>
   </data>
   <data name="tabPageSettings" xml:space="preserve">
-    <value>Configurções</value>
+    <value>Configurações</value>
   </data>
   <data name="tabPageUtilites" xml:space="preserve">
     <value>Utilidades</value>
